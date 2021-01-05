@@ -2,7 +2,7 @@
 An exercise from SQL database course.
 
 Text-based UI to query specific values from a randomly generated
-course database. Not a general-purpose implementation.
+course database (kurssit.db) written in Python. Not a general-purpose implementation.
 
 ```
 Available actions:                                            Possible test values:
